@@ -1,0 +1,35 @@
+[
+  {
+    "label": "strong",
+    "V_inhibited": 100,
+    "V_inhibitor": 60,
+    "R": 0.4,
+    "expectedR": 0.4,
+    "K1_inhibited": 1,
+    "K2_inhibited": 0.6,
+    "damping": 0.24,
+    "netDrive": 0.76
+  },
+  {
+    "label": "medium",
+    "V_inhibited": 80,
+    "V_inhibitor": 100,
+    "R": 0.25,
+    "expectedR": 0.25,
+    "K1_inhibited": 0.5,
+    "K2_inhibited": 0.75,
+    "damping": 0.1875,
+    "netDrive": 0.3125
+  },
+  {
+    "label": "weak",
+    "V_inhibited": 90,
+    "V_inhibitor": 80,
+    "R": 0.1111111111111111,
+    "expectedR": 0.11,
+    "K1_inhibited": 0.25,
+    "K2_inhibited": 0.6666666666666666,
+    "damping": 0.07407407407407407,
+    "netDrive": 0.17592592592592593
+  }
+]

@@ -1,0 +1,1505 @@
+{
+  "heartRateData": [
+    {
+      "frame": 0,
+      "V_curr": 60,
+      "V_target": 60,
+      "breathBase": 20,
+      "breathCurrent": 20,
+      "constraintForce": 0,
+      "tasks": 5,
+      "phase": "light"
+    },
+    {
+      "frame": 1,
+      "V_curr": 60,
+      "V_target": 60,
+      "breathBase": 20,
+      "breathCurrent": 20,
+      "constraintForce": 0,
+      "tasks": 6,
+      "phase": "light"
+    },
+    {
+      "frame": 2,
+      "V_curr": 60,
+      "V_target": 60,
+      "breathBase": 20,
+      "breathCurrent": 20,
+      "constraintForce": 0,
+      "tasks": 5,
+      "phase": "light"
+    },
+    {
+      "frame": 3,
+      "V_curr": 60,
+      "V_target": 60,
+      "breathBase": 20,
+      "breathCurrent": 20,
+      "constraintForce": 0,
+      "tasks": 6,
+      "phase": "light"
+    },
+    {
+      "frame": 4,
+      "V_curr": 60,
+      "V_target": 60,
+      "breathBase": 20,
+      "breathCurrent": 20,
+      "constraintForce": 0,
+      "tasks": 5,
+      "phase": "light"
+    },
+    {
+      "frame": 5,
+      "V_curr": 60,
+      "V_target": 60,
+      "breathBase": 20,
+      "breathCurrent": 20,
+      "constraintForce": 0,
+      "tasks": 5,
+      "phase": "light"
+    },
+    {
+      "frame": 6,
+      "V_curr": 60,
+      "V_target": 60,
+      "breathBase": 20,
+      "breathCurrent": 20,
+      "constraintForce": 0,
+      "tasks": 5,
+      "phase": "light"
+    },
+    {
+      "frame": 7,
+      "V_curr": 60,
+      "V_target": 60,
+      "breathBase": 20,
+      "breathCurrent": 20,
+      "constraintForce": 0,
+      "tasks": 6,
+      "phase": "light"
+    },
+    {
+      "frame": 8,
+      "V_curr": 60,
+      "V_target": 60,
+      "breathBase": 20,
+      "breathCurrent": 20,
+      "constraintForce": 0,
+      "tasks": 7,
+      "phase": "light"
+    },
+    {
+      "frame": 9,
+      "V_curr": 60,
+      "V_target": 60,
+      "breathBase": 20,
+      "breathCurrent": 20,
+      "constraintForce": 0,
+      "tasks": 6,
+      "phase": "light"
+    },
+    {
+      "frame": 10,
+      "V_curr": 60,
+      "V_target": 60,
+      "breathBase": 20,
+      "breathCurrent": 20,
+      "constraintForce": 0,
+      "tasks": 6,
+      "phase": "light"
+    },
+    {
+      "frame": 11,
+      "V_curr": 60,
+      "V_target": 60,
+      "breathBase": 20,
+      "breathCurrent": 20,
+      "constraintForce": 0,
+      "tasks": 7,
+      "phase": "light"
+    },
+    {
+      "frame": 12,
+      "V_curr": 60,
+      "V_target": 60,
+      "breathBase": 20,
+      "breathCurrent": 20,
+      "constraintForce": 0,
+      "tasks": 6,
+      "phase": "light"
+    },
+    {
+      "frame": 13,
+      "V_curr": 60,
+      "V_target": 60,
+      "breathBase": 20,
+      "breathCurrent": 20,
+      "constraintForce": 0,
+      "tasks": 6,
+      "phase": "light"
+    },
+    {
+      "frame": 14,
+      "V_curr": 60,
+      "V_target": 60,
+      "breathBase": 20,
+      "breathCurrent": 20,
+      "constraintForce": 0,
+      "tasks": 7,
+      "phase": "light"
+    },
+    {
+      "frame": 15,
+      "V_curr": 60,
+      "V_target": 60,
+      "breathBase": 20,
+      "breathCurrent": 20,
+      "constraintForce": 0,
+      "tasks": 6,
+      "phase": "light"
+    },
+    {
+      "frame": 16,
+      "V_curr": 60,
+      "V_target": 60,
+      "breathBase": 20,
+      "breathCurrent": 20,
+      "constraintForce": 0,
+      "tasks": 5,
+      "phase": "light"
+    },
+    {
+      "frame": 17,
+      "V_curr": 60,
+      "V_target": 60,
+      "breathBase": 20,
+      "breathCurrent": 20,
+      "constraintForce": 0,
+      "tasks": 6,
+      "phase": "light"
+    },
+    {
+      "frame": 18,
+      "V_curr": 60,
+      "V_target": 60,
+      "breathBase": 20,
+      "breathCurrent": 20,
+      "constraintForce": 0,
+      "tasks": 6,
+      "phase": "light"
+    },
+    {
+      "frame": 19,
+      "V_curr": 60,
+      "V_target": 60,
+      "breathBase": 20,
+      "breathCurrent": 20,
+      "constraintForce": 0,
+      "tasks": 5,
+      "phase": "light"
+    },
+    {
+      "frame": 20,
+      "V_curr": 60,
+      "V_target": 60,
+      "breathBase": 20,
+      "breathCurrent": 20,
+      "constraintForce": 0,
+      "tasks": 5,
+      "phase": "light"
+    },
+    {
+      "frame": 21,
+      "V_curr": 60,
+      "V_target": 60,
+      "breathBase": 20,
+      "breathCurrent": 20,
+      "constraintForce": 0,
+      "tasks": 6,
+      "phase": "light"
+    },
+    {
+      "frame": 22,
+      "V_curr": 60,
+      "V_target": 60,
+      "breathBase": 20,
+      "breathCurrent": 20,
+      "constraintForce": 0,
+      "tasks": 6,
+      "phase": "light"
+    },
+    {
+      "frame": 23,
+      "V_curr": 60,
+      "V_target": 60,
+      "breathBase": 20,
+      "breathCurrent": 20,
+      "constraintForce": 0,
+      "tasks": 6,
+      "phase": "light"
+    },
+    {
+      "frame": 24,
+      "V_curr": 60,
+      "V_target": 60,
+      "breathBase": 20,
+      "breathCurrent": 20,
+      "constraintForce": 0,
+      "tasks": 5,
+      "phase": "light"
+    },
+    {
+      "frame": 25,
+      "V_curr": 60,
+      "V_target": 60,
+      "breathBase": 20,
+      "breathCurrent": 20,
+      "constraintForce": 0,
+      "tasks": 5,
+      "phase": "light"
+    },
+    {
+      "frame": 26,
+      "V_curr": 60,
+      "V_target": 60,
+      "breathBase": 20,
+      "breathCurrent": 20,
+      "constraintForce": 0,
+      "tasks": 6,
+      "phase": "light"
+    },
+    {
+      "frame": 27,
+      "V_curr": 60,
+      "V_target": 60,
+      "breathBase": 20,
+      "breathCurrent": 20,
+      "constraintForce": 0,
+      "tasks": 7,
+      "phase": "light"
+    },
+    {
+      "frame": 28,
+      "V_curr": 60,
+      "V_target": 60,
+      "breathBase": 20,
+      "breathCurrent": 20,
+      "constraintForce": 0,
+      "tasks": 6,
+      "phase": "light"
+    },
+    {
+      "frame": 29,
+      "V_curr": 60,
+      "V_target": 60,
+      "breathBase": 20,
+      "breathCurrent": 20,
+      "constraintForce": 0,
+      "tasks": 7,
+      "phase": "light"
+    },
+    {
+      "frame": 30,
+      "V_curr": 60,
+      "V_target": 60,
+      "breathBase": 20,
+      "breathCurrent": 20,
+      "constraintForce": 0,
+      "tasks": 6,
+      "phase": "light"
+    },
+    {
+      "frame": 31,
+      "V_curr": 60,
+      "V_target": 60,
+      "breathBase": 20,
+      "breathCurrent": 20,
+      "constraintForce": 0,
+      "tasks": 5,
+      "phase": "light"
+    },
+    {
+      "frame": 32,
+      "V_curr": 60,
+      "V_target": 60,
+      "breathBase": 20,
+      "breathCurrent": 20,
+      "constraintForce": 0,
+      "tasks": 6,
+      "phase": "light"
+    },
+    {
+      "frame": 33,
+      "V_curr": 60,
+      "V_target": 60,
+      "breathBase": 20,
+      "breathCurrent": 20,
+      "constraintForce": 0,
+      "tasks": 6,
+      "phase": "light"
+    },
+    {
+      "frame": 34,
+      "V_curr": 60,
+      "V_target": 60,
+      "breathBase": 20,
+      "breathCurrent": 20,
+      "constraintForce": 0,
+      "tasks": 5,
+      "phase": "light"
+    },
+    {
+      "frame": 35,
+      "V_curr": 60,
+      "V_target": 60,
+      "breathBase": 20,
+      "breathCurrent": 20,
+      "constraintForce": 0,
+      "tasks": 7,
+      "phase": "light"
+    },
+    {
+      "frame": 36,
+      "V_curr": 60,
+      "V_target": 60,
+      "breathBase": 20,
+      "breathCurrent": 20,
+      "constraintForce": 0,
+      "tasks": 7,
+      "phase": "light"
+    },
+    {
+      "frame": 37,
+      "V_curr": 60,
+      "V_target": 60,
+      "breathBase": 20,
+      "breathCurrent": 20,
+      "constraintForce": 0,
+      "tasks": 5,
+      "phase": "light"
+    },
+    {
+      "frame": 38,
+      "V_curr": 60,
+      "V_target": 60,
+      "breathBase": 20,
+      "breathCurrent": 20,
+      "constraintForce": 0,
+      "tasks": 7,
+      "phase": "light"
+    },
+    {
+      "frame": 39,
+      "V_curr": 60,
+      "V_target": 60,
+      "breathBase": 20,
+      "breathCurrent": 20,
+      "constraintForce": 0,
+      "tasks": 6,
+      "phase": "light"
+    },
+    {
+      "frame": 40,
+      "V_curr": 60,
+      "V_target": 60,
+      "breathBase": 20,
+      "breathCurrent": 20,
+      "constraintForce": 0,
+      "tasks": 6,
+      "phase": "light"
+    },
+    {
+      "frame": 41,
+      "V_curr": 60,
+      "V_target": 60,
+      "breathBase": 20,
+      "breathCurrent": 20,
+      "constraintForce": 0,
+      "tasks": 5,
+      "phase": "light"
+    },
+    {
+      "frame": 42,
+      "V_curr": 60,
+      "V_target": 60,
+      "breathBase": 20,
+      "breathCurrent": 20,
+      "constraintForce": 0,
+      "tasks": 6,
+      "phase": "light"
+    },
+    {
+      "frame": 43,
+      "V_curr": 60,
+      "V_target": 60,
+      "breathBase": 20,
+      "breathCurrent": 20,
+      "constraintForce": 0,
+      "tasks": 7,
+      "phase": "light"
+    },
+    {
+      "frame": 44,
+      "V_curr": 60,
+      "V_target": 60,
+      "breathBase": 20,
+      "breathCurrent": 20,
+      "constraintForce": 0,
+      "tasks": 5,
+      "phase": "light"
+    },
+    {
+      "frame": 45,
+      "V_curr": 60,
+      "V_target": 60,
+      "breathBase": 20,
+      "breathCurrent": 20,
+      "constraintForce": 0,
+      "tasks": 7,
+      "phase": "light"
+    },
+    {
+      "frame": 46,
+      "V_curr": 60,
+      "V_target": 60,
+      "breathBase": 20,
+      "breathCurrent": 20,
+      "constraintForce": 0,
+      "tasks": 6,
+      "phase": "light"
+    },
+    {
+      "frame": 47,
+      "V_curr": 60,
+      "V_target": 60,
+      "breathBase": 20,
+      "breathCurrent": 20,
+      "constraintForce": 0,
+      "tasks": 5,
+      "phase": "light"
+    },
+    {
+      "frame": 48,
+      "V_curr": 60,
+      "V_target": 60,
+      "breathBase": 20,
+      "breathCurrent": 20,
+      "constraintForce": 0,
+      "tasks": 7,
+      "phase": "light"
+    },
+    {
+      "frame": 49,
+      "V_curr": 60,
+      "V_target": 60,
+      "breathBase": 20,
+      "breathCurrent": 20,
+      "constraintForce": 0,
+      "tasks": 7,
+      "phase": "light"
+    },
+    {
+      "frame": 50,
+      "V_curr": 60,
+      "V_target": 95,
+      "breathBase": 20,
+      "breathCurrent": 20,
+      "constraintForce": 0,
+      "tasks": 19,
+      "phase": "heavy"
+    },
+    {
+      "frame": 51,
+      "V_curr": 66.5625,
+      "V_target": 95,
+      "breathBase": 19.015625,
+      "breathCurrent": 19.015625,
+      "constraintForce": 0,
+      "tasks": 15,
+      "phase": "heavy"
+    },
+    {
+      "frame": 52,
+      "V_curr": 71.14760879731514,
+      "V_target": 95,
+      "breathBase": 18.327858680402727,
+      "breathCurrent": 18.327858680402727,
+      "constraintForce": 0,
+      "tasks": 17,
+      "phase": "heavy"
+    },
+    {
+      "frame": 53,
+      "V_curr": 74.5814633137476,
+      "V_target": 95,
+      "breathBase": 17.81278050293786,
+      "breathCurrent": 17.81278050293786,
+      "constraintForce": 0,
+      "tasks": 18,
+      "phase": "heavy"
+    },
+    {
+      "frame": 54,
+      "V_curr": 77.2664046386287,
+      "V_target": 95,
+      "breathBase": 17.410039304205696,
+      "breathCurrent": 17.410039304205696,
+      "constraintForce": 0,
+      "tasks": 18,
+      "phase": "heavy"
+    },
+    {
+      "frame": 55,
+      "V_curr": 79.42967984731854,
+      "V_target": 95,
+      "breathBase": 17.08554802290222,
+      "breathCurrent": 17.08554802290222,
+      "constraintForce": 0,
+      "tasks": 17,
+      "phase": "heavy"
+    },
+    {
+      "frame": 56,
+      "V_curr": 81.2119258715995,
+      "V_target": 95,
+      "breathBase": 16.818211119260074,
+      "breathCurrent": 16.818211119260074,
+      "constraintForce": 0,
+      "tasks": 17,
+      "phase": "heavy"
+    },
+    {
+      "frame": 57,
+      "V_curr": 82.70587694054568,
+      "V_target": 95,
+      "breathBase": 16.59411845891815,
+      "breathCurrent": 16.59411845891815,
+      "constraintForce": 0,
+      "tasks": 19,
+      "phase": "heavy"
+    },
+    {
+      "frame": 58,
+      "V_curr": 83.97563293795574,
+      "V_target": 95,
+      "breathBase": 16.40365505930664,
+      "breathCurrent": 16.40365505930664,
+      "constraintForce": 0,
+      "tasks": 17,
+      "phase": "heavy"
+    },
+    {
+      "frame": 59,
+      "V_curr": 85.06715789527306,
+      "V_target": 95,
+      "breathBase": 16.23992631570904,
+      "breathCurrent": 16.23992631570904,
+      "constraintForce": 0,
+      "tasks": 17,
+      "phase": "heavy"
+    },
+    {
+      "frame": 60,
+      "V_curr": 86.0143995417899,
+      "V_target": 95,
+      "breathBase": 16.097840068731514,
+      "breathCurrent": 16.097840068731514,
+      "constraintForce": 0,
+      "tasks": 15,
+      "phase": "heavy"
+    },
+    {
+      "frame": 61,
+      "V_curr": 86.84304948954124,
+      "V_target": 95,
+      "breathBase": 15.973542576568814,
+      "breathCurrent": 15.973542576568814,
+      "constraintForce": 0,
+      "tasks": 19,
+      "phase": "heavy"
+    },
+    {
+      "frame": 62,
+      "V_curr": 87.57295409220214,
+      "V_target": 95,
+      "breathBase": 15.86405688616968,
+      "breathCurrent": 15.86405688616968,
+      "constraintForce": 0,
+      "tasks": 17,
+      "phase": "heavy"
+    },
+    {
+      "frame": 63,
+      "V_curr": 88.21971550073972,
+      "V_target": 95,
+      "breathBase": 15.76704267488904,
+      "breathCurrent": 15.76704267488904,
+      "constraintForce": 0,
+      "tasks": 15,
+      "phase": "heavy"
+    },
+    {
+      "frame": 64,
+      "V_curr": 88.79578690935011,
+      "V_target": 95,
+      "breathBase": 15.680631963597483,
+      "breathCurrent": 15.680631963597483,
+      "constraintForce": 0,
+      "tasks": 16,
+      "phase": "heavy"
+    },
+    {
+      "frame": 65,
+      "V_curr": 89.31124103667986,
+      "V_target": 95,
+      "breathBase": 15.603313844498022,
+      "breathCurrent": 15.603313844498022,
+      "constraintForce": 0,
+      "tasks": 18,
+      "phase": "heavy"
+    },
+    {
+      "frame": 66,
+      "V_curr": 89.7743213215913,
+      "V_target": 95,
+      "breathBase": 15.533851801761305,
+      "breathCurrent": 15.533851801761305,
+      "constraintForce": 0,
+      "tasks": 17,
+      "phase": "heavy"
+    },
+    {
+      "frame": 67,
+      "V_curr": 90.19184496382915,
+      "V_target": 95,
+      "breathBase": 15.471223255425627,
+      "breathCurrent": 15.471223255425627,
+      "constraintForce": 0,
+      "tasks": 17,
+      "phase": "heavy"
+    },
+    {
+      "frame": 68,
+      "V_curr": 90.56950269909589,
+      "V_target": 95,
+      "breathBase": 15.414574595135615,
+      "breathCurrent": 15.414574595135615,
+      "constraintForce": 0,
+      "tasks": 19,
+      "phase": "heavy"
+    },
+    {
+      "frame": 69,
+      "V_curr": 90.91208518175401,
+      "V_target": 95,
+      "breathBase": 15.363187222736899,
+      "breathCurrent": 15.363187222736899,
+      "constraintForce": 0,
+      "tasks": 16,
+      "phase": "heavy"
+    },
+    {
+      "frame": 70,
+      "V_curr": 91.22365629247328,
+      "V_target": 95,
+      "breathBase": 15.316451556129008,
+      "breathCurrent": 15.316451556129008,
+      "constraintForce": 0,
+      "tasks": 17,
+      "phase": "heavy"
+    },
+    {
+      "frame": 71,
+      "V_curr": 91.50768746005072,
+      "V_target": 95,
+      "breathBase": 15.273846880992393,
+      "breathCurrent": 15.273846880992393,
+      "constraintForce": 0,
+      "tasks": 17,
+      "phase": "heavy"
+    },
+    {
+      "frame": 72,
+      "V_curr": 91.76716293984039,
+      "V_target": 95,
+      "breathBase": 15.234925559023942,
+      "breathCurrent": 15.234925559023942,
+      "constraintForce": 0,
+      "tasks": 19,
+      "phase": "heavy"
+    },
+    {
+      "frame": 73,
+      "V_curr": 92.00466317664223,
+      "V_target": 95,
+      "breathBase": 15.199300523503666,
+      "breathCurrent": 15.199300523503666,
+      "constraintForce": 0,
+      "tasks": 16,
+      "phase": "heavy"
+    },
+    {
+      "frame": 74,
+      "V_curr": 92.22243143600602,
+      "V_target": 95,
+      "breathBase": 15.166635284599097,
+      "breathCurrent": 15.166635284599097,
+      "constraintForce": 0,
+      "tasks": 18,
+      "phase": "heavy"
+    },
+    {
+      "frame": 75,
+      "V_curr": 92.4224275239392,
+      "V_target": 95,
+      "breathBase": 15.13663587140912,
+      "breathCurrent": 15.13663587140912,
+      "constraintForce": 0,
+      "tasks": 15,
+      "phase": "heavy"
+    },
+    {
+      "frame": 76,
+      "V_curr": 92.6063714440036,
+      "V_target": 95,
+      "breathBase": 15.10904428339946,
+      "breathCurrent": 15.10904428339946,
+      "constraintForce": 0,
+      "tasks": 17,
+      "phase": "heavy"
+    },
+    {
+      "frame": 77,
+      "V_curr": 92.77577914028717,
+      "V_target": 95,
+      "breathBase": 15.083633128956924,
+      "breathCurrent": 15.083633128956924,
+      "constraintForce": 0,
+      "tasks": 19,
+      "phase": "heavy"
+    },
+    {
+      "frame": 78,
+      "V_curr": 92.93199196315867,
+      "V_target": 95,
+      "breathBase": 15.0602012055262,
+      "breathCurrent": 15.0602012055262,
+      "constraintForce": 0,
+      "tasks": 17,
+      "phase": "heavy"
+    },
+    {
+      "frame": 79,
+      "V_curr": 93.0762011168493,
+      "V_target": 95,
+      "breathBase": 15.038569832472604,
+      "breathCurrent": 15.038569832472604,
+      "constraintForce": 0,
+      "tasks": 17,
+      "phase": "heavy"
+    },
+    {
+      "frame": 80,
+      "V_curr": 93.20946806586001,
+      "V_target": 95,
+      "breathBase": 15.018579790120999,
+      "breathCurrent": 15.018579790120999,
+      "constraintForce": 0,
+      "tasks": 19,
+      "phase": "heavy"
+    },
+    {
+      "frame": 81,
+      "V_curr": 93.33274166459839,
+      "V_target": 95,
+      "breathBase": 15.000088750310242,
+      "breathCurrent": 15.000088750310242,
+      "constraintForce": 0,
+      "tasks": 15,
+      "phase": "heavy"
+    },
+    {
+      "frame": 82,
+      "V_curr": 93.4468726129379,
+      "V_target": 95,
+      "breathBase": 14.982969108059315,
+      "breathCurrent": 14.982969108059315,
+      "constraintForce": 0,
+      "tasks": 19,
+      "phase": "heavy"
+    },
+    {
+      "frame": 83,
+      "V_curr": 93.55262571632991,
+      "V_target": 95,
+      "breathBase": 14.967106142550513,
+      "breathCurrent": 14.967106142550513,
+      "constraintForce": 0,
+      "tasks": 16,
+      "phase": "heavy"
+    },
+    {
+      "frame": 84,
+      "V_curr": 93.65069033315815,
+      "V_target": 95,
+      "breathBase": 14.952396450026278,
+      "breathCurrent": 14.952396450026278,
+      "constraintForce": 0,
+      "tasks": 17,
+      "phase": "heavy"
+    },
+    {
+      "frame": 85,
+      "V_curr": 93.74168931727078,
+      "V_target": 95,
+      "breathBase": 14.938746602409383,
+      "breathCurrent": 14.938746602409383,
+      "constraintForce": 0,
+      "tasks": 19,
+      "phase": "heavy"
+    },
+    {
+      "frame": 86,
+      "V_curr": 93.82618670496667,
+      "V_target": 95,
+      "breathBase": 14.926071994254999,
+      "breathCurrent": 14.926071994254999,
+      "constraintForce": 0,
+      "tasks": 19,
+      "phase": "heavy"
+    },
+    {
+      "frame": 87,
+      "V_curr": 93.9046943493755,
+      "V_target": 95,
+      "breathBase": 14.914295847593674,
+      "breathCurrent": 14.914295847593674,
+      "constraintForce": 0,
+      "tasks": 19,
+      "phase": "heavy"
+    },
+    {
+      "frame": 88,
+      "V_curr": 93.97767766833655,
+      "V_target": 95,
+      "breathBase": 14.903348349749518,
+      "breathCurrent": 14.903348349749518,
+      "constraintForce": 0,
+      "tasks": 17,
+      "phase": "heavy"
+    },
+    {
+      "frame": 89,
+      "V_curr": 94.04556064242571,
+      "V_target": 95,
+      "breathBase": 14.893165903636143,
+      "breathCurrent": 14.893165903636143,
+      "constraintForce": 0,
+      "tasks": 19,
+      "phase": "heavy"
+    },
+    {
+      "frame": 90,
+      "V_curr": 94.10873017609168,
+      "V_target": 95,
+      "breathBase": 14.883690473586247,
+      "breathCurrent": 14.883690473586247,
+      "constraintForce": 0,
+      "tasks": 18,
+      "phase": "heavy"
+    },
+    {
+      "frame": 91,
+      "V_curr": 94.16753991571025,
+      "V_target": 95,
+      "breathBase": 14.874869012643462,
+      "breathCurrent": 14.874869012643462,
+      "constraintForce": 0,
+      "tasks": 19,
+      "phase": "heavy"
+    },
+    {
+      "frame": 92,
+      "V_curr": 94.22231360280125,
+      "V_target": 95,
+      "breathBase": 14.866652959579813,
+      "breathCurrent": 14.866652959579813,
+      "constraintForce": 0,
+      "tasks": 18,
+      "phase": "heavy"
+    },
+    {
+      "frame": 93,
+      "V_curr": 94.27334802794381,
+      "V_target": 95,
+      "breathBase": 14.858997795808428,
+      "breathCurrent": 14.858997795808428,
+      "constraintForce": 0,
+      "tasks": 18,
+      "phase": "heavy"
+    },
+    {
+      "frame": 94,
+      "V_curr": 94.32091564049936,
+      "V_target": 95,
+      "breathBase": 14.851862653925096,
+      "breathCurrent": 14.851862653925096,
+      "constraintForce": 0,
+      "tasks": 15,
+      "phase": "heavy"
+    },
+    {
+      "frame": 95,
+      "V_curr": 94.3652668606609,
+      "V_target": 95,
+      "breathBase": 14.845209970900866,
+      "breathCurrent": 14.845209970900866,
+      "constraintForce": 0,
+      "tasks": 16,
+      "phase": "heavy"
+    },
+    {
+      "frame": 96,
+      "V_curr": 94.40663213323916,
+      "V_target": 95,
+      "breathBase": 14.839005180014126,
+      "breathCurrent": 14.839005180014126,
+      "constraintForce": 0,
+      "tasks": 16,
+      "phase": "heavy"
+    },
+    {
+      "frame": 97,
+      "V_curr": 94.44522375669087,
+      "V_target": 95,
+      "breathBase": 14.83321643649637,
+      "breathCurrent": 14.83321643649637,
+      "constraintForce": 0,
+      "tasks": 17,
+      "phase": "heavy"
+    },
+    {
+      "frame": 98,
+      "V_curr": 94.48123751596974,
+      "V_target": 95,
+      "breathBase": 14.82781437260454,
+      "breathCurrent": 14.82781437260454,
+      "constraintForce": 0,
+      "tasks": 19,
+      "phase": "heavy"
+    },
+    {
+      "frame": 99,
+      "V_curr": 94.51485414365874,
+      "V_target": 95,
+      "breathBase": 14.822771878451189,
+      "breathCurrent": 14.822771878451189,
+      "constraintForce": 0,
+      "tasks": 15,
+      "phase": "heavy"
+    },
+    {
+      "frame": 100,
+      "V_curr": 94.54624063038005,
+      "V_target": 60,
+      "breathBase": 14.818063905442992,
+      "breathCurrent": 14.818063905442992,
+      "constraintForce": 0,
+      "tasks": 5,
+      "phase": "recovery"
+    },
+    {
+      "frame": 101,
+      "V_curr": 89.37029442558146,
+      "V_target": 60,
+      "breathBase": 15.59445583616278,
+      "breathCurrent": 15.59445583616278,
+      "constraintForce": 0,
+      "tasks": 5,
+      "phase": "recovery"
+    },
+    {
+      "frame": 102,
+      "V_curr": 85.2419430499623,
+      "V_target": 60,
+      "breathBase": 16.213708542505653,
+      "breathCurrent": 16.213708542505653,
+      "constraintForce": 0,
+      "tasks": 7,
+      "phase": "recovery"
+    },
+    {
+      "frame": 103,
+      "V_curr": 81.87232686808628,
+      "V_target": 60,
+      "breathBase": 16.71915096978706,
+      "breathCurrent": 16.71915096978706,
+      "constraintForce": 0,
+      "tasks": 5,
+      "phase": "recovery"
+    },
+    {
+      "frame": 104,
+      "V_curr": 79.0734202867398,
+      "V_target": 60,
+      "breathBase": 17.13898695698903,
+      "breathCurrent": 17.13898695698903,
+      "constraintForce": 0,
+      "tasks": 6,
+      "phase": "recovery"
+    },
+    {
+      "frame": 105,
+      "V_curr": 76.71666273372922,
+      "V_target": 60,
+      "breathBase": 17.492500589940615,
+      "breathCurrent": 17.492500589940615,
+      "constraintForce": 0,
+      "tasks": 5,
+      "phase": "recovery"
+    },
+    {
+      "frame": 106,
+      "V_curr": 74.71063772987972,
+      "V_target": 60,
+      "breathBase": 17.79340434051804,
+      "breathCurrent": 17.79340434051804,
+      "constraintForce": 0,
+      "tasks": 5,
+      "phase": "recovery"
+    },
+    {
+      "frame": 107,
+      "V_curr": 72.98822148589828,
+      "V_target": 60,
+      "breathBase": 18.051766777115258,
+      "breathCurrent": 18.051766777115258,
+      "constraintForce": 0,
+      "tasks": 6,
+      "phase": "recovery"
+    },
+    {
+      "frame": 108,
+      "V_curr": 71.49878941640742,
+      "V_target": 60,
+      "breathBase": 18.27518158753889,
+      "breathCurrent": 18.27518158753889,
+      "constraintForce": 0,
+      "tasks": 5,
+      "phase": "recovery"
+    },
+    {
+      "frame": 109,
+      "V_curr": 70.20328430590529,
+      "V_target": 60,
+      "breathBase": 18.469507354114207,
+      "breathCurrent": 18.469507354114207,
+      "constraintForce": 0,
+      "tasks": 7,
+      "phase": "recovery"
+    },
+    {
+      "frame": 110,
+      "V_curr": 69.0709819957699,
+      "V_target": 60,
+      "breathBase": 18.639352700634515,
+      "breathCurrent": 18.639352700634515,
+      "constraintForce": 0,
+      "tasks": 7,
+      "phase": "recovery"
+    },
+    {
+      "frame": 111,
+      "V_curr": 68.07730477129611,
+      "V_target": 60,
+      "breathBase": 18.78840428430558,
+      "breathCurrent": 18.78840428430558,
+      "constraintForce": 0,
+      "tasks": 6,
+      "phase": "recovery"
+    },
+    {
+      "frame": 112,
+      "V_curr": 67.20230358419016,
+      "V_target": 60,
+      "breathBase": 18.919654462371476,
+      "breathCurrent": 18.919654462371476,
+      "constraintForce": 0,
+      "tasks": 7,
+      "phase": "recovery"
+    },
+    {
+      "frame": 113,
+      "V_curr": 66.42957986500953,
+      "V_target": 60,
+      "breathBase": 19.03556302024857,
+      "breathCurrent": 19.03556302024857,
+      "constraintForce": 0,
+      "tasks": 7,
+      "phase": "recovery"
+    },
+    {
+      "frame": 114,
+      "V_curr": 65.74550369192218,
+      "V_target": 60,
+      "breathBase": 19.13817444621167,
+      "breathCurrent": 19.13817444621167,
+      "constraintForce": 0,
+      "tasks": 7,
+      "phase": "recovery"
+    },
+    {
+      "frame": 115,
+      "V_curr": 65.1386362838511,
+      "V_target": 60,
+      "breathBase": 19.229204557422335,
+      "breathCurrent": 19.229204557422335,
+      "constraintForce": 0,
+      "tasks": 6,
+      "phase": "recovery"
+    },
+    {
+      "frame": 116,
+      "V_curr": 64.59929621087055,
+      "V_target": 60,
+      "breathBase": 19.31010556836942,
+      "breathCurrent": 19.31010556836942,
+      "constraintForce": 0,
+      "tasks": 5,
+      "phase": "recovery"
+    },
+    {
+      "frame": 117,
+      "V_curr": 64.11922852816635,
+      "V_target": 60,
+      "breathBase": 19.382115720775047,
+      "breathCurrent": 19.382115720775047,
+      "constraintForce": 0,
+      "tasks": 5,
+      "phase": "recovery"
+    },
+    {
+      "frame": 118,
+      "V_curr": 63.69134883477783,
+      "V_target": 60,
+      "breathBase": 19.446297674783327,
+      "breathCurrent": 19.446297674783327,
+      "constraintForce": 0,
+      "tasks": 7,
+      "phase": "recovery"
+    },
+    {
+      "frame": 119,
+      "V_curr": 63.30954269935388,
+      "V_target": 60,
+      "breathBase": 19.50356859509692,
+      "breathCurrent": 19.50356859509692,
+      "constraintForce": 0,
+      "tasks": 5,
+      "phase": "recovery"
+    },
+    {
+      "frame": 120,
+      "V_curr": 62.96850657172876,
+      "V_target": 60,
+      "breathBase": 19.554724014240687,
+      "breathCurrent": 19.554724014240687,
+      "constraintForce": 0,
+      "tasks": 6,
+      "phase": "recovery"
+    },
+    {
+      "frame": 121,
+      "V_curr": 62.66362018332006,
+      "V_target": 60,
+      "breathBase": 19.60045697250199,
+      "breathCurrent": 19.60045697250199,
+      "constraintForce": 0,
+      "tasks": 6,
+      "phase": "recovery"
+    },
+    {
+      "frame": 122,
+      "V_curr": 62.39084313922479,
+      "V_target": 60,
+      "breathBase": 19.64137352911628,
+      "breathCurrent": 19.64137352911628,
+      "constraintForce": 0,
+      "tasks": 7,
+      "phase": "recovery"
+    },
+    {
+      "frame": 123,
+      "V_curr": 62.14663030866942,
+      "V_target": 60,
+      "breathBase": 19.678005453699587,
+      "breathCurrent": 19.678005453699587,
+      "constraintForce": 0,
+      "tasks": 7,
+      "phase": "recovery"
+    },
+    {
+      "frame": 124,
+      "V_curr": 61.927861980695425,
+      "V_target": 60,
+      "breathBase": 19.710820702895685,
+      "breathCurrent": 19.710820702895685,
+      "constraintForce": 0,
+      "tasks": 5,
+      "phase": "recovery"
+    },
+    {
+      "frame": 125,
+      "V_curr": 61.73178573572864,
+      "V_target": 60,
+      "breathBase": 19.740232139640703,
+      "breathCurrent": 19.740232139640703,
+      "constraintForce": 0,
+      "tasks": 5,
+      "phase": "recovery"
+    },
+    {
+      "frame": 126,
+      "V_curr": 61.55596770328326,
+      "V_target": 60,
+      "breathBase": 19.766604844507512,
+      "breathCurrent": 19.766604844507512,
+      "constraintForce": 0,
+      "tasks": 7,
+      "phase": "recovery"
+    },
+    {
+      "frame": 127,
+      "V_curr": 61.398251408038945,
+      "V_target": 60,
+      "breathBase": 19.790262288794157,
+      "breathCurrent": 19.790262288794157,
+      "constraintForce": 0,
+      "tasks": 6,
+      "phase": "recovery"
+    },
+    {
+      "frame": 128,
+      "V_curr": 61.256722803774856,
+      "V_target": 60,
+      "breathBase": 19.81149157943377,
+      "breathCurrent": 19.81149157943377,
+      "constraintForce": 0,
+      "tasks": 6,
+      "phase": "recovery"
+    },
+    {
+      "frame": 129,
+      "V_curr": 61.129680394107645,
+      "V_target": 60,
+      "breathBase": 19.830547940883854,
+      "breathCurrent": 19.830547940883854,
+      "constraintForce": 0,
+      "tasks": 5,
+      "phase": "recovery"
+    },
+    {
+      "frame": 130,
+      "V_curr": 61.01560956679112,
+      "V_target": 60,
+      "breathBase": 19.84765856498133,
+      "breathCurrent": 19.84765856498133,
+      "constraintForce": 0,
+      "tasks": 5,
+      "phase": "recovery"
+    },
+    {
+      "frame": 131,
+      "V_curr": 60.913160443154545,
+      "V_target": 60,
+      "breathBase": 19.863025933526817,
+      "breathCurrent": 19.863025933526817,
+      "constraintForce": 0,
+      "tasks": 6,
+      "phase": "recovery"
+    },
+    {
+      "frame": 132,
+      "V_curr": 60.82112867954457,
+      "V_target": 60,
+      "breathBase": 19.876830698068314,
+      "breathCurrent": 19.876830698068314,
+      "constraintForce": 0,
+      "tasks": 5,
+      "phase": "recovery"
+    },
+    {
+      "frame": 133,
+      "V_curr": 60.73843876318688,
+      "V_target": 60,
+      "breathBase": 19.889234185521968,
+      "breathCurrent": 19.889234185521968,
+      "constraintForce": 0,
+      "tasks": 6,
+      "phase": "recovery"
+    },
+    {
+      "frame": 134,
+      "V_curr": 60.66412942788631,
+      "V_target": 60,
+      "breathBase": 19.900380585817054,
+      "breathCurrent": 19.900380585817054,
+      "constraintForce": 0,
+      "tasks": 5,
+      "phase": "recovery"
+    },
+    {
+      "frame": 135,
+      "V_curr": 60.597340880758026,
+      "V_target": 60,
+      "breathBase": 19.910398867886297,
+      "breathCurrent": 19.910398867886297,
+      "constraintForce": 0,
+      "tasks": 6,
+      "phase": "recovery"
+    },
+    {
+      "frame": 136,
+      "V_curr": 60.53730358369195,
+      "V_target": 60,
+      "breathBase": 19.919404462446206,
+      "breathCurrent": 19.919404462446206,
+      "constraintForce": 0,
+      "tasks": 7,
+      "phase": "recovery"
+    },
+    {
+      "frame": 137,
+      "V_curr": 60.48332837547795,
+      "V_target": 60,
+      "breathBase": 19.92750074367831,
+      "breathCurrent": 19.92750074367831,
+      "constraintForce": 0,
+      "tasks": 5,
+      "phase": "recovery"
+    },
+    {
+      "frame": 138,
+      "V_curr": 60.434797754711965,
+      "V_target": 60,
+      "breathBase": 19.934780336793207,
+      "breathCurrent": 19.934780336793207,
+      "constraintForce": 0,
+      "tasks": 7,
+      "phase": "recovery"
+    },
+    {
+      "frame": 139,
+      "V_curr": 60.39115817148049,
+      "V_target": 60,
+      "breathBase": 19.941326274277927,
+      "breathCurrent": 19.941326274277927,
+      "constraintForce": 0,
+      "tasks": 5,
+      "phase": "recovery"
+    },
+    {
+      "frame": 140,
+      "V_curr": 60.35191319869769,
+      "V_target": 60,
+      "breathBase": 19.947213020195345,
+      "breathCurrent": 19.947213020195345,
+      "constraintForce": 0,
+      "tasks": 6,
+      "phase": "recovery"
+    },
+    {
+      "frame": 141,
+      "V_curr": 60.31661747286108,
+      "V_target": 60,
+      "breathBase": 19.952507379070838,
+      "breathCurrent": 19.952507379070838,
+      "constraintForce": 0,
+      "tasks": 6,
+      "phase": "recovery"
+    },
+    {
+      "frame": 142,
+      "V_curr": 60.28487130968759,
+      "V_target": 60,
+      "breathBase": 19.957269303546862,
+      "breathCurrent": 19.957269303546862,
+      "constraintForce": 0,
+      "tasks": 6,
+      "phase": "recovery"
+    },
+    {
+      "frame": 143,
+      "V_curr": 60.256315913206834,
+      "V_target": 60,
+      "breathBase": 19.961552613018974,
+      "breathCurrent": 19.961552613018974,
+      "constraintForce": 0,
+      "tasks": 6,
+      "phase": "recovery"
+    },
+    {
+      "frame": 144,
+      "V_curr": 60.23062910790854,
+      "V_target": 60,
+      "breathBase": 19.96540563381372,
+      "breathCurrent": 19.96540563381372,
+      "constraintForce": 0,
+      "tasks": 5,
+      "phase": "recovery"
+    },
+    {
+      "frame": 145,
+      "V_curr": 60.207521532848155,
+      "V_target": 60,
+      "breathBase": 19.968871770072777,
+      "breathCurrent": 19.968871770072777,
+      "constraintForce": 0,
+      "tasks": 7,
+      "phase": "recovery"
+    },
+    {
+      "frame": 146,
+      "V_curr": 60.18673324451479,
+      "V_target": 60,
+      "breathBase": 19.97199001332278,
+      "breathCurrent": 19.97199001332278,
+      "constraintForce": 0,
+      "tasks": 5,
+      "phase": "recovery"
+    },
+    {
+      "frame": 147,
+      "V_curr": 60.16803068200234,
+      "V_target": 60,
+      "breathBase": 19.974795397699648,
+      "breathCurrent": 19.974795397699648,
+      "constraintForce": 0,
+      "tasks": 6,
+      "phase": "recovery"
+    },
+    {
+      "frame": 148,
+      "V_curr": 60.151203953794216,
+      "V_target": 60,
+      "breathBase": 19.977319406930867,
+      "breathCurrent": 19.977319406930867,
+      "constraintForce": 0,
+      "tasks": 7,
+      "phase": "recovery"
+    },
+    {
+      "frame": 149,
+      "V_curr": 60.13606441043423,
+      "V_target": 60,
+      "breathBase": 19.979590338434864,
+      "breathCurrent": 19.979590338434864,
+      "constraintForce": 0,
+      "tasks": 6,
+      "phase": "recovery"
+    }
+  ],
+  "totalTasks": 1456
+}

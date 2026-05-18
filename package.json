@@ -1,0 +1,10 @@
+{
+  "name": "endogenous-rhythm-drive",
+  "version": "1.0.0",
+  "description": "无外部工程常数的内生参数自适应节律控制",
+  "main": "src/rhythmDriver.js",
+  "scripts": {
+    "test": "node examples/demo.js"
+  },
+  "license": "CC-BY-NC-SA-4.0"
+}
